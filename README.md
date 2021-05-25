@@ -1,5 +1,6 @@
-<img src="/img/Profile-header.png" />
+![profile Gif](/img/profile.gif)
 <img src="/img/aaronriz_idle.gif"  align="left" height="360"/>
+
 <div align="right">
 
 <h3 align="left">Current Tech</h3>
