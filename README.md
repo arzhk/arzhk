@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-| --- | ----------- |
-| ![character gif](/img/aaronriz_idle.gif) | Title |
+![character gif](/img/aaronriz_idle.gif) | Title
 
 <!--
 **arzhk/arzhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
