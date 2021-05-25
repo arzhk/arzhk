@@ -1,5 +1,6 @@
-| ---------------------------------------- | :-----------: | ----: |
-| ![character gif](/img/aaronriz_idle.gif) | right-aligned | $1600 |
+![character gif](/img/aaronriz_idle.gif)
+
+adsadasdasdsa
 
 <!--
 **arzhk/arzhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
