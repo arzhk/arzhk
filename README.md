@@ -1,10 +1,10 @@
-<img src="/img/aaronriz_idle.gif"  align="left" height="360"/>
-<div align="right">
 <h1 align="center">
 █░█░█ █▀▀ █░░ █▀▀ █▀█ █▀▄▀█ █▀▀   ▀█▀ █▀█   █▀▄▀█ █▄█   █▀█ █▀█ █▀█ █▀▀ █ █░░ █▀▀
 ▀▄▀▄▀ ██▄ █▄▄ █▄▄ █▄█ █░▀░█ ██▄   ░█░ █▄█   █░▀░█ ░█░   █▀▀ █▀▄ █▄█ █▀░ █ █▄▄ ██▄</h1>
 
 </div>
+<img src="/img/aaronriz_idle.gif"  align="left" height="360"/>
+<div align="right">
 
 <h3 align="left">Current Tech</h3>
 <p align="left">
