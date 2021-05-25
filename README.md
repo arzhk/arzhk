@@ -1,4 +1,4 @@
-<img src="/img/Profile-header.png"  align="center"/>
+<img src="/img/Profile-header.png" />
 <img src="/img/aaronriz_idle.gif"  align="left" height="360"/>
 <div align="right">
 
