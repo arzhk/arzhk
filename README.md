@@ -1,7 +1,9 @@
+<h2 align="center">【Ｗｅｌｃｏｍｅ　ｔｏ　ｍｙ　ｐｒｏｆｉｌｅ】</h2>
 <img src="/img/aaronriz_idle.gif"  align="left" height="300"/>
 <div align="right">
-<h3 align="left">【Ｗｅｌｃｏｍｅ　ｔｏ　ｍｙ　ｐｒｏｆｉｌｅ】</h3>
-<p>Current Tech</p>
+
+<strong align="left">Current Tech</strong>
+
 <p align="left"><img src="https://img.shields.io/badge/React-434343?style=for-the-badge&logo=react" alt="React" />&nbsp;<img src="https://img.shields.io/badge/MongoDB-434343?style=for-the-badge&logo=mongodb" alt="MongoDB" />&nbsp;<img src="https://img.shields.io/badge/NodeJS-434343?style=for-the-badge&logo=node-dot-js" alt="Node" />&nbsp;<img src="https://img.shields.io/badge/Redux-434343?style=for-the-badge&logo=redux" alt="Redux" />&nbsp;<img src="https://img.shields.io/badge/Express-434343?style=for-the-badge&logo=express" alt="Express" />&nbsp;<img src="https://img.shields.io/badge/MaterialUI-434343?style=for-the-badge&logo=material-ui" alt="Material-UI" />&nbsp;<img src="https://img.shields.io/badge/HTML-434343?style=for-the-badge&logo=html5" alt="Material-UI" />&nbsp;<img src="https://img.shields.io/badge/CSS-434343?style=for-the-badge&logo=css3" alt="Material-UI" />&nbsp;<img src="https://img.shields.io/badge/Postgres-434343?style=for-the-badge&logo=postgres alt="Material-UI" />&nbsp;<img src="https://img.shields.io/badge/Git-434343?style=for-the-badge&logo=github" alt="Material-UI" /></p>
 </div>
 
