@@ -1,4 +1,6 @@
-| ![character gif](/img/aaronriz_idle.gif) | ### Hi there 👋 |
+| Tables                                   |      Are      |  Cool |
+| ---------------------------------------- | :-----------: | ----: |
+| ![character gif](/img/aaronriz_idle.gif) | right-aligned | $1600 |
 
 <!--
 **arzhk/arzhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
