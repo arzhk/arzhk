@@ -1,5 +1,6 @@
 <div style="float: left">
 <img src="/img/aaronriz_idle.gif" />
+testadsadasdsds
 </div>
 
 <!--
