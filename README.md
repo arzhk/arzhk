@@ -3,7 +3,7 @@
 testadsadasdsds
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzhk&count_private=true&theme=synthwave&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzhk&count_private=true&theme=synthwave&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs&hide_title=true&hide_rank=true)
 
 <!--
 **arzhk/arzhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
