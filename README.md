@@ -1,4 +1,4 @@
-<div style="float: left">
+<div style="display: flex, align-items: center">
 <img src="/img/aaronriz_idle.gif" />
 testadsadasdsds
 </div>
