@@ -1,5 +1,5 @@
 <div style="float: left">
-![character gif](/img/aaronriz_idle.gif)
+<img src="/img/aaronriz_idle.gif" />
 </div>
 
 <!--
