@@ -9,9 +9,10 @@
 <img src="https://img.shields.io/badge/NodeJS-434343?style=for-the-badge&logo=node-dot-js" alt="Node" />&nbsp;
 <img src="https://img.shields.io/badge/Redux-434343?style=for-the-badge&logo=redux" alt="Redux" />&nbsp;
 <img src="https://img.shields.io/badge/Express-434343?style=for-the-badge&logo=express" alt="Express" />&nbsp;
-<img src="https://img.shields.io/badge/MaterialUI-434343?style=for-the-badge&logo=material-ui" alt="Material-UI" />&nbsp;
+<img src="https://img.shields.io/badge/Material_UI-434343?style=for-the-badge&logo=material-ui" alt="Material-UI" />&nbsp;
 <img src="https://img.shields.io/badge/HTML-434343?style=for-the-badge&logo=html5" alt="HTML5" />&nbsp;
 <img src="https://img.shields.io/badge/CSS-434343?style=for-the-badge&logo=css3" alt="CSS3" />&nbsp;
+<img src="https://img.shields.io/badge/Javascript-434343?style=for-the-badge&logo=js" alt="Javascript" />&nbsp;
 <img src="https://img.shields.io/badge/Postgres-434343?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />&nbsp;
 <img src="https://img.shields.io/badge/Git-434343?style=for-the-badge&logo=github" alt="Github" />&nbsp;
 </p>
