@@ -1,6 +1,6 @@
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 
-<img src="/img/aaronriz_idle.gif"  align="left" height="100%"/>
+<img src="/img/aaronriz_idle.gif"  align="left" height="1000px"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzhk&count_private=true&theme=synthwave&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs&hide_title=true&hide_rank=true)
 
