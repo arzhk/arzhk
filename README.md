@@ -1,9 +1,9 @@
-<img src="/img/aaronriz_idle.gif"  align="left" height="300"/>
+<img src="/img/aaronriz_idle.gif"  align="left" height="360"/>
 <div align="right">
 <h1 align="center">【Ｗｅｌｃｏｍｅ　ｔｏ　ｍｙ　ｐｒｏｆｉｌｅ】</h1>
 </div>
 
-<h4 align="left">Current Tech</h4>
+<h3 align="left">Current Tech</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/React-434343?style=for-the-badge&logo=react" alt="React" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-434343?style=for-the-badge&logo=mongodb" alt="MongoDB" />&nbsp;
