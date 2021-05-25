@@ -1,6 +1,6 @@
+<div style="float: left">
 ![character gif](/img/aaronriz_idle.gif)
-
-adsadasdasdsa
+</div>
 
 <!--
 **arzhk/arzhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
