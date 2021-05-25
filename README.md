@@ -23,7 +23,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/React_Native-434343?style=for-the-badge&logo=react" alt="React Native" />&nbsp;
 <img src="https://img.shields.io/badge/Typescript-434343?style=for-the-badge&logo=typescript" alt="Typescript" />&nbsp;
-<img src="https://img.shields.io/badge/C_Sharp-434343?style=for-the-badge&logo=csharp" alt="C_Sharp" />&nbsp;
+<img src="https://img.shields.io/badge/C#-434343?style=for-the-badge&logo=csharp" alt="C_Sharp" />&nbsp;
 <img src="https://img.shields.io/badge/C++-434343?style=for-the-badge&logo=cplusplus" alt="C++" />&nbsp;
 
 </p>
