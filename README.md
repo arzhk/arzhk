@@ -1,6 +1,8 @@
 ![profile Gif](/img/profile.gif)
 
-# Hello, I'm Aaron!
+## Hello, I'm Aaron, a full stack developer from London.
+
+Check out my portfolio <a href="https://aaronrizhik.com/">Here</a>
 
 <div align="left">
 
