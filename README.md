@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Typescript-434343?style=for-the-badge&logo=typescript" alt="Typescript" />&nbsp;
 <img src="https://img.shields.io/badge/ThreeJS-434343?style=for-the-badge&logo=three-dot-js" alt="ThreeJS" />&nbsp;
 <!-- <img src="https://img.shields.io/badge/CSharp-434343?style=for-the-badge&logo=csharp" alt="C_Sharp" />&nbsp; -->
-<img src="https://img.shields.io/badge/C++-434343?style=for-the-badge&logo=c-plus-plus" alt="C++" />&nbsp;
+<img src="https://img.shields.io/badge/C++-434343?style=for-the-badge&logo=cplusplus" alt="C++" />&nbsp;
 
 </p>
 
