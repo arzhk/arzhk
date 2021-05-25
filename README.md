@@ -1,4 +1,3 @@
-| Tables                                   |      Are      |  Cool |
 | ---------------------------------------- | :-----------: | ----: |
 | ![character gif](/img/aaronriz_idle.gif) | right-aligned | $1600 |
 
