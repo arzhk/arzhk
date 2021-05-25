@@ -1,7 +1,4 @@
-<h1 align="center">
-🆆🅴🅻🅲🅾🅼🅴 🆃🅾 🅼🆈 🅿🆁🅾🅵🅸🅻🅴</h1>
-
-</div>
+<img src="/img/Profile-header.png"  align="center"/>
 <img src="/img/aaronriz_idle.gif"  align="left" height="360"/>
 <div align="right">
 
@@ -24,7 +21,6 @@
 <img src="https://img.shields.io/badge/React_Native-434343?style=for-the-badge&logo=react" alt="React Native" />&nbsp;
 <img src="https://img.shields.io/badge/Typescript-434343?style=for-the-badge&logo=typescript" alt="Typescript" />&nbsp;
 <img src="https://img.shields.io/badge/ThreeJS-434343?style=for-the-badge&logo=three-dot-js" alt="ThreeJS" />&nbsp;
-...and more!
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzhk&count_private=true&theme=synthwave&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs&hide_title=true&hide_rank=true)
