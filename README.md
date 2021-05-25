@@ -17,6 +17,12 @@
 <img src="https://img.shields.io/badge/Git-434343?style=for-the-badge&logo=github" alt="Github" />&nbsp;
 </p>
 
+<h3 align="left">Looking to Learn</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/React_Native-434343?style=for-the-badge&logo=react" alt="React" />&nbsp;
+
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzhk&count_private=true&theme=synthwave&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs&hide_title=true&hide_rank=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
