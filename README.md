@@ -28,8 +28,8 @@ Check out my portfolio <a href="https://aaronrizhik.com/" target="_blank">Here</
 <img src="https://img.shields.io/badge/React_Native-434343?style=for-the-badge&logo=react" alt="React Native" />&nbsp;
 <img src="https://img.shields.io/badge/ThreeJS-434343?style=for-the-badge&logo=three-dot-js" alt="ThreeJS" />&nbsp;
 <img src="https://img.shields.io/badge/GraphQL-434343?style=for-the-badge&logo=graphql" alt="GraphQL" />&nbsp;
-<img src="https://img.shields.io/badge/NextJS-434343?style=for-the-badge&logo=next-dot-js" alt="Unity" />&nbsp;
-<img src="https://img.shields.io/badge/NextJS-434343?style=for-the-badge&logo=next-dot-js" alt="C#" />&nbsp;
+<img src="https://img.shields.io/badge/Unity-434343?style=for-the-badge&logo=unity" alt="Unity" />&nbsp;
+<img src="https://img.shields.io/badge/C#-434343?style=for-the-badge&logo=c-sharp" alt="C#" />&nbsp;
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=true&bg_color=434343&text_color=fcfcfc&title_color=fcfcfc)](https://github.com/anuraghazra/github-readme-stats)
